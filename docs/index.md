@@ -1,11 +1,11 @@
-# Obsidian Notes
+# Notas de Poyllla
 
-Publish your public notes with MkDocs
+Esto es una parte de las notas que hice durante del doctorado, aquí subí las notas que sean solo de polylla, con el proposito que sea util para mis tesistas.
 
-## Hello World!
+En **proyectos** se encuentra la nota principal a cada versión de polylla
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+En **00 Zettlers** se encuentras las notas. El nombre deriva del método que se uso para crear y organizar las notas que se llama [zettelkasten](https://zettelkasten.de/posts/overview/), con el software [Obsidian](https://obsidian.md/).
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+Si falta alguna nota, por favor avisar.
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+- Sergio
